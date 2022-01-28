@@ -57,8 +57,8 @@ class App extends React.Component {
           addFunction={this.addAssignment}
           title="Assignments"
         />
-      );}
-  
+      );
+    }
 
     /* Change below to render students*/
 
